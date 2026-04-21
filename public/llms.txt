@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+לופדיגיטל היא סוכנות עיצוב דיגיטלי לסטארטאפים וחברות טכנולוגיה שמביאה אסתטיקה של 2030 לכל פרויקט. חדשנות, יצירתיות וטכנולוגיה במקום אחד.
+
+### שירותים
+https://example.com/services
+שירותי עיצוב UI UX לחברות טכנולוגיה וסטארטאפים — ממיתוג ועד ממשקים דיגיטליים מתקדמים. גלה איך לופדיגיטל הופכת חזון לחוויה ויזואלית מנצחת.
+
+### אודות
+https://example.com/about
+לופדיגיטל נולדה מתוך תשוקה לעיצוב גרפי דיגיטלי שבוקע גבולות. הכר את הצוות שמשלב טכנולוגיה, יצירתיות ועוצמה ויזואלית כדי לבנות מותגים שמובילים את העתיד.
+
+### צור קשר
+https://example.com/contact
+מוכן להפוך את הרעיון שלך למציאות דיגיטלית? צור קשר עם לופדיגיטל עוד היום ותקבל ייעוץ ראשוני חינם. סוכנות עיצוב דיגיטלי ישראל שמחכה לשמוע ממך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
